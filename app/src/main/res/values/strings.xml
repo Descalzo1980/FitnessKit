@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitnessKit</string>
+    <string name="coach">Григорьев Ярослав</string>
+    <string name="place">Студия</string>
+    <string name="time">1ч.15 мин.</string>
+    <string name="type_of_workout">Силовая тренировка</string>
+    <string name="time_end">11:00</string>
+    <string name="time_start">10:00</string>
+    <string name="current_time">понедельник, 9 января</string>
+</resources>
